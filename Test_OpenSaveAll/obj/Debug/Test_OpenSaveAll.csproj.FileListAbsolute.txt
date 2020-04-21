@@ -1,0 +1,10 @@
+C:\Users\Diego\source\repos\Test_OpenSaveAll\Test_OpenSaveAll\obj\Debug\Test_OpenSaveAll.Form1.resources
+C:\Users\Diego\source\repos\Test_OpenSaveAll\Test_OpenSaveAll\obj\Debug\Test_OpenSaveAll.csproj.GenerateResource.cache
+C:\Users\Diego\source\repos\Test_OpenSaveAll\Test_OpenSaveAll\obj\Debug\Test_OpenSaveAll.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\Test_OpenSaveAll\Test_OpenSaveAll\bin\Debug\Security Dados AES.exe.config
+C:\Users\Diego\source\repos\Test_OpenSaveAll\Test_OpenSaveAll\bin\Debug\Security Dados AES.exe
+C:\Users\Diego\source\repos\Test_OpenSaveAll\Test_OpenSaveAll\bin\Debug\Security Dados AES.pdb
+C:\Users\Diego\source\repos\Test_OpenSaveAll\Test_OpenSaveAll\obj\Debug\OpenSaveAll.Properties.Resources.resources
+C:\Users\Diego\source\repos\Test_OpenSaveAll\Test_OpenSaveAll\obj\Debug\Security Dados AES.exe
+C:\Users\Diego\source\repos\Test_OpenSaveAll\Test_OpenSaveAll\obj\Debug\Security Dados AES.pdb
+C:\Users\Diego\source\repos\Test_OpenSaveAll\Test_OpenSaveAll\obj\Debug\Test_OpenSaveAll.csprojAssemblyReference.cache
